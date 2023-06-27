@@ -15,32 +15,12 @@ Code for the AI Institute in Dynamic Systems June 2023 Workshop Talk: Scientific
 
 # <p style="text-align: center;">Activities</p>
 
-## Explain, Refactor, Optimize, and Test MATLAB Code (`matlab` folder)
+## Live coding source code (`.ipynb` file)
 
-1. original
-2. refactored into function
-3. optimized with vector operations
-4. tested
-5. fixed
-
-## Translate MATLAB Code to Python (`python` folder)
-
-1. translated
-2. load from `.mat` files
-3. create reference data
-4. test translation
-5. fix translation
-
-## Live Coding with Copilot/ChatGPT (`copilot` folder)
-
-1. load `.csv` file
-2. aggregate case counts for type A and type B
-3. calculate mean and variance
-4. implement test
-5. run test on reference data
-6. calculate mean by week
-7. plot with `matplotlib`
-8. save to `.png` file
+1. ChatGPT API Prompt Completion
+2. LangChain ChatGPT Interface
+3. LangChain Agents Demo
+4. GPT-Engineer Demo
 
 ### GitHub Codespaces
 
