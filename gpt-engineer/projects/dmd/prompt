@@ -1,0 +1,1 @@
+We are writing Dynamic Mode Decomposion (DMD) experiment on SEIR epidemiology model in python. SEIR data generator, PyDMD model in one file. Plot DMD Modes and SEIR model. Save both plots as png in the current working directory.
