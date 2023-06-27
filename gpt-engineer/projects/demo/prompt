@@ -1,0 +1,1 @@
+We are writing SINDy with Control experiment on SEIR epidemiology in python. SEIR data generator, SEIR Ploting and PySINDy components split in separate files.
